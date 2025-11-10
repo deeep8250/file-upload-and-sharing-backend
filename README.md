@@ -51,6 +51,8 @@ So, in this project:
 
 
 
+⚙️ 4. Main Components
+
 | Component                 | Purpose                                                |
 | ------------------------- | ------------------------------------------------------ |
 | 🧠 **Go Backend (Gin)**   | Handles API requests (upload, confirm, list, download) |
@@ -63,17 +65,23 @@ So, in this project:
 
 
 
-| Concept                        | What You’llUnderstand ----------------------------------------------------------------------- |
-| **Object Storage**             | How files are stored as “objects” inside “buckets” (not normal folders)|
-| **MinIO**                      | How to use MinIO as a self-hosted cloud storage manager    |
-| **Presigned URL**              | Temporary links that let users upload/download directly to MinIO |
-| **Metadata vs Data**           | Metadata (in Postgres) vs actual file data (in MinIO)      |
-| **Range Requests**             | How large files (like videos) can be streamed in chunks    |
-| **Share Links**                | How to generate secure, time-limited download URLs         |
-| **Clean Backend Architecture** | How to separate handlers, services, and repositories in Go |
+
+🪣 5. Key Concepts You Will Learn
+
+| Concept                        | What You’ll Understand                                                  |
+| ------------------------------ | ----------------------------------------------------------------------- |
+| **Object Storage**             | How files are stored as “objects” inside “buckets” (not normal folders) |
+| **MinIO**                      | How to use MinIO as a self-hosted cloud storage manager                 |
+| **Presigned URL**              | Temporary links that let users upload/download directly to MinIO        |
+| **Metadata vs Data**           | Metadata (in Postgres) vs actual file data (in MinIO)                   |
+| **Range Requests**             | How large files (like videos) can be streamed in chunks                 |
+| **Share Links**                | How to generate secure, time-limited download URLs                      |
+| **Clean Backend Architecture** | How to separate handlers, services, and repositories in Go              |
 
 
 
+
+🧱 6. Database Structure (PostgreSQL)
 
 | Column         | Purpose                                                 |
 | -------------- | ------------------------------------------------------- |
@@ -123,6 +131,7 @@ Step 4️⃣ — Download or share
 
 
 
+🧰 8. Handlers (API endpoints you’ll write)
 
 | Handler                      | Description                                         |
 | ---------------------------- | --------------------------------------------------- |
@@ -140,10 +149,7 @@ Step 4️⃣ — Download or share
 
 
 
-
-
-
-
+📦 9. Data Storage Summary
 
 | Stored in        | What it stores                             |
 | ---------------- | ------------------------------------------ |
