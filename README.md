@@ -52,7 +52,7 @@ So, in this project:
 
 
 
-``````````
+
 
 
 
@@ -69,7 +69,7 @@ So, in this project:
 
 
 
-````````````
+
 
 
 
@@ -142,6 +142,7 @@ Step 4️⃣ — Download or share
 -Or generate share links that expire after a set time.
 
 
+`````````````````````
 
 
 
@@ -181,6 +182,7 @@ Step 4️⃣ — Download or share
 
 
 
+`````````````````````
 
 🧠 10. Key Learnings from this Project
 
@@ -197,3 +199,6 @@ After completing it, you will know:
 ✅ How to use Docker Compose for multi-service apps.
 
 ✅ How to test with Postman step by step.
+
+
+`````````````````````
