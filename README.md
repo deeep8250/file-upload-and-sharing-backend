@@ -51,6 +51,11 @@ So, in this project:
 
 
 
+
+``````````
+
+
+
 ⚙️ 4. Main Components
 
 | Component                 | Purpose                                                |
@@ -63,6 +68,8 @@ So, in this project:
 
 
 
+
+````````````
 
 
 
@@ -79,6 +86,9 @@ So, in this project:
 | **Clean Backend Architecture** | How to separate handlers, services, and repositories in Go              |
 
 
+
+
+```````````
 
 
 🧱 6. Database Structure (PostgreSQL)
@@ -98,6 +108,9 @@ So, in this project:
 
 
 
+
+
+`````````````````````
 
 
 7. Project Flow (Step by Step)
@@ -130,6 +143,8 @@ Step 4️⃣ — Download or share
 
 
 
+```````````````````
+
 
 🧰 8. Handlers (API endpoints you’ll write)
 
@@ -146,7 +161,7 @@ Step 4️⃣ — Download or share
 
 
 
-
+`````````````````````````
 
 
 📦 9. Data Storage Summary
@@ -161,7 +176,7 @@ Step 4️⃣ — Download or share
 
 
 
-
+````````````````````````````
 
 
 🧠 10. Key Learnings from this Project
